@@ -53,11 +53,9 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
   <br>
   
 
-| ![JRodriguezx1's github stats](https://github-readme-stats.vercel.app/api?username=JRodriguezx1&show_icons=true&theme=tokyonight) | ![JRodriguezx1 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JRodriguezx1664&theme=tokyonight) |
+| ![JRodriguezx1's github stats](https://github-readme-stats.vercel.app/api?username=JRodriguezx1&show_icons=true&theme=tokyonight) | ![JRodriguezx1 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JRodriguezx1&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRodriguezx1&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JRodriguezx1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
