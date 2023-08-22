@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/JRodriguezx1?label=Follow&style=social)](https://github.com/JRodriguezx1)
+[![Github](https://img.shields.io/github/followers/JRodriguezx1?label=Follow&style=social)](https://github.com/JRodriguezx1) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JRodriguezx1.repoName) <img src="https://komarev.com/ghpvc/?username=JRodriguezx1" alt="JRodriguezx1" />
 
 <div size='20px'> Hi! My name is Julian Rodriguez. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
@@ -27,18 +27,17 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
 - ⚡ Fun fact: Me gustan los girasoles.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="43" height="43"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="43" height="43"/>
+
+
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true"  width="42" height="42"/> <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=44 alt="nodejs icon"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=42 alt="express icon"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50" height="50">
+
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -50,7 +49,7 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
   
 <br>
 <br>
-  <br>
+<br>
   
 
 | ![JRodriguezx1's github stats](https://github-readme-stats.vercel.app/api?username=JRodriguezx1&show_icons=true&theme=tokyonight) | ![JRodriguezx1 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JRodriguezx1&theme=tokyonight) |
