@@ -30,14 +30,16 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="43" height="43"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="43" height="43"/>
 
-
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true"  width="42" height="42"/> <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=44 alt="nodejs icon"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width=42 alt="express icon"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50" height="50">
-
+<img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true"  width="46" height="42"/> <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=46 height="44" alt="nodejs icon"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="46" height="42" alt="express icon"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50" height="50">
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<br>
+
+
+<h2> Tools </h2>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
