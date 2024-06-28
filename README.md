@@ -28,9 +28,11 @@ src="https://camo.githubusercontent.com/4ab57b25efede4ab2efb6a766643fb97b2dff60b
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="43" height="43"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="43" height="43"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="43" height="43"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="43" height="43"/> 
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true"  width="46" height="42"/> <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=46 height="44" alt="nodejs icon"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="46" height="42" alt="express icon"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50" height="50">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="43" height="43"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="43" height="43"/>
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true"  width="46" height="42"/> <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=46 height="44" alt="nodejs icon"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="46" height="42" alt="laravel icon"> <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="50" height="50">
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
